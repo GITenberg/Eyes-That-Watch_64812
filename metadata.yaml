@@ -1,0 +1,26 @@
+_repo: Eyes-That-Watch_64812
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gallun, Raymond Z.
+    aliases:
+    - Gallun, Raymond Zinke
+    - Gallun, Raymond Z. (Raymond Zinke)
+    birthdate: 1911
+    deathdate: 1994
+    gutenberg_agent_id: '28382'
+    url: http://www.gutenberg.org/2009/agents/28382
+    wikipedia: http://en.wikipedia.org/wiki/Raymond_Z._Gallun
+description: ''
+gutenberg_issued: '2021-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64812'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Eyes That Watch
+url: http://www.gutenberg.org/ebooks/64812
