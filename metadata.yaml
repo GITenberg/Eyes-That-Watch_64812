@@ -1,5 +1,8 @@
 _repo: Eyes-That-Watch_64812
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64812-h/images/cover.jpg
 creator:
   author:
     agent_name: Gallun, Raymond Z.
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/28382
     wikipedia: http://en.wikipedia.org/wiki/Raymond_Z._Gallun
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64812#Eyes-That-Watch
 gutenberg_issued: '2021-03-13'
 gutenberg_type: Text
 identifiers:
